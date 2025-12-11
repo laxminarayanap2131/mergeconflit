@@ -1,3 +1,4 @@
 Hello from AVIZ academy
-My name is Laxmi working as Devops Engineer.
-I am learing XYZ
+My name is Laxminarayana Puricherla
+I working as Devops Engineer.
+I am learing GIT, GITHUB & GITHUB actions
