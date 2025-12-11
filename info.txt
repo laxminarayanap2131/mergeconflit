@@ -1,3 +1,4 @@
 Hello from AVIZ academy
 My name is ARJUN working as Devops Engineer.
-I am learing Devops
+I am learing GIT, GITHUB & GITHUB actions
+>>>>>>> branch1
